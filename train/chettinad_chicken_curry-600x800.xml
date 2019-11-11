@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nonveg</folder>
+	<filename>chettinad_chicken_curry-600x800.jpg</filename>
+	<path>E:\VIRTUAL_SHARED_FOLDER\nonveg\chettinad_chicken_curry-600x800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonveg_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>280</ymin>
+			<xmax>482</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nonveg</folder>
+	<filename>100503263.jpg</filename>
+	<path>E:\VIRTUAL_SHARED_FOLDER\nonveg\100503263.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonveg_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>82</ymin>
+			<xmax>63</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

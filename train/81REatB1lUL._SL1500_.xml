@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nonveg</folder>
+	<filename>81REatB1lUL._SL1500_.jpg</filename>
+	<path>E:\VIRTUAL_SHARED_FOLDER\nonveg\81REatB1lUL._SL1500_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1074</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonveg_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>837</xmin>
+			<ymin>346</ymin>
+			<xmax>898</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vn</folder>
+	<filename>image_625.jpg</filename>
+	<path>E:\VIRTUAL_SHARED_FOLDER\vn\image_625.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>3029</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>veg_nonveg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>867</xmin>
+			<ymin>2119</ymin>
+			<xmax>974</xmax>
+			<ymax>2223</ymax>
+		</bndbox>
+	</object>
+</annotation>

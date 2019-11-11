@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nonveg</folder>
+	<filename>81Kpi3dXBFL._SL1488_.jpg</filename>
+	<path>E:\VIRTUAL_SHARED_FOLDER\nonveg\81Kpi3dXBFL._SL1488_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1181</width>
+		<height>1488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonveg_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1045</xmin>
+			<ymin>203</ymin>
+			<xmax>1124</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

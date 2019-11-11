@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nonveg</folder>
+	<filename>tuna-in-oil-500x500.jpg</filename>
+	<path>E:\VIRTUAL_SHARED_FOLDER\nonveg\tuna-in-oil-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>446</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonveg_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>114</ymin>
+			<xmax>365</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
